@@ -1,6 +1,6 @@
 {
-  "name": "theF2E-productGalery",
-  "homepage": "https://fergusKe.github.io/theF2E-productGalery",
+  "name": "theF2E-comicViewer",
+  "homepage": "https://fergusKe.github.io/theF2E-comicViewer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
