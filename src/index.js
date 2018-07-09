@@ -4,8 +4,7 @@ import { AppContainer } from 'react-hot-loader';
 
 import Main from './containers';
 
-import './stylesheets/common.scss';
-import './stylesheets/index.scss';
+import './stylesheets/main.scss';
 
 const render = () => {
   ReactDOM.render(
